@@ -23,3 +23,7 @@ Docker container to build and run solvespace
 * solvespace-bin : output directory for the compiled binary
 * solvespace-other : other input files for the container (like build.sh)
 * solvespace-source : git submodule containing source to be compiled
+
+## linked issues
+
+* https://github.com/solvespace/solvespace/issues/1161
